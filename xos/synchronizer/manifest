@@ -6,6 +6,5 @@ steps/roles/sample/tasks/main.yml
 computenode-synchronizer.py
 run.sh
 computenode_synchronizer_config
-.computenode-onboard.yaml.swp
 start.sh
 model-deps

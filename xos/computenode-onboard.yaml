@@ -15,7 +15,7 @@ topology_template:
           # base_url is non-null.
           models: models.py
           admin: admin.py
-          #admin_template: templates/computenodeadmin.html
+          admin_template: templates/computenodeadmin.html
           synchronizer: synchronizer/manifest
           synchronizer_run: computenode-synchronizer.py
           tosca_resource: tosca/resources/computenodeservice.py
