@@ -1,0 +1,11 @@
+supervisor/computenode-observer.conf
+stop.sh
+steps/compute_node_playbook.yaml
+steps/sync_computenode.py
+steps/roles/sample/tasks/main.yml
+computenode-synchronizer.py
+run.sh
+computenode_synchronizer_config
+.computenode-onboard.yaml.swp
+start.sh
+model-deps

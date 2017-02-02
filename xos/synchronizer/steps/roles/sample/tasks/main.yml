@@ -1,0 +1,5 @@
+- name: My Sample Deployment Task
+  apt:
+    name: jq
+    state: present
+    update-cache: yes
